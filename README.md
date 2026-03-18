@@ -1,2 +1,2 @@
 # html
-Nesse repositório irei colocar as minhas atividades em html, no segundo termo do SENAI.
+Nesse repositório irei colocar as minhas atividades em html, no segundo semestre do SENAI.
